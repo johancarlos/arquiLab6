@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{2FC0204C-E115-4EAF-9D15-2F3E1B4575E9}|Default">
+  <MonoDevelop.Ide.ItemProperties.Laboratorio6 FirstBuild="True" PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Laboratorio6/Sumary.md">
+    <Files>
+      <File FileName="Laboratorio6/Sumary.md" Line="1" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Laboratorio6" expanded="True">
+            <Node name="Laboratorio6" expanded="True">
+              <Node name="Sumary.md" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

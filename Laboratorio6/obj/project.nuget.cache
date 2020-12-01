@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sJoEtu3NFd+ig7jM2CJxiGS69F+VmeP1Ox63SsirNGtN1wierTnMfklsBn0GWoy14/RVVmUA5cY0y66tdOr6dA==",
+  "success": true,
+  "projectFilePath": "/Users/kairos/Projects/Laboratorio6/Laboratorio6/Laboratorio6.csproj",
+  "expectedPackageFiles": [
+    "/Users/kairos/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.8/microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}
